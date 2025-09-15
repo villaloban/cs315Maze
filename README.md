@@ -1,7 +1,7 @@
 **Student Info:** 
 Name: Anthony Villalobos
 Student ID: 008394627
-Repo Link: https://github.com/anthony-villaloban/cs315Maze.git
+Repo Link: https://github.com/villaloban/cs315Maze.git
 
 Collaboration & Sources: The sources that I used to help me with this project were GeeksforGeeks and chatgpt. During this project I encountered an issue where I was hardcoding the file that was being read. This caused it so whenever I would run it on blue then it would end up backfiring and saying there was an error reading the file. I tried including the file in the cmake debug and in the main folder but still I encountered this issue. I ended up asking chatgpt why I was encountering this issue and it's because it was being hard coded and would end up ignoring what was on the command line and woudldn't read it or just crash. I ended up using geeksforgeeks on help with the backtracking algorithm, stacks, and also with matrix guides. 
 
